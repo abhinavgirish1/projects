@@ -17,9 +17,3 @@ Concepts demonstrated:
 - Flexible filtering logic
 - Clean CLI interaction
 - Basic data aggregation patterns
-
-2. PRV26 Programming Assignment
-
-Coursework from PRV (Probability and Random Variables). Five notebooks covering biased coin simulation, rejection sampling, Box-Muller transforms, and multivariate normal sampling.
-
-See `prv26/` for the notebooks and setup instructions.
